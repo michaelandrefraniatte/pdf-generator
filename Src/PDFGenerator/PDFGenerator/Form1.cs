@@ -1,23 +1,9 @@
 ﻿using System;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
-using System.Runtime.InteropServices;
 using System.IO;
 using System.Diagnostics;
-using System.Management;
-using System.Security.Cryptography;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 using System.Threading;
 using System.Drawing;
-using System.ComponentModel;
-using EO.WebBrowser;
-using System.Media;
-using System.Globalization;
-using Google.Cloud.Firestore;
-using Google.Cloud.Firestore.V1;
-using NetFwTypeLib;
 namespace PDFGenerator
 {
     public partial class Form1 : Form
